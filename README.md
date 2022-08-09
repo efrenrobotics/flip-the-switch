@@ -6,5 +6,10 @@ Would eventually like to pair this to a robotic arm (Universal Robot UR5) to fli
 
 <p align="center">
   <img src="images/val_batch0_labels.jpeg" width="350" title="batch labels">
+  <figcaption>Batch of labeled images.</figcaption>
+</p>
+
+<p align="center">
   <img src="images/point-cloud.png" width="350" alt="point cloud">
+  <figcaption>3D reconstruction of lightswitch using pointcloud.</figcaption>
 </p>
